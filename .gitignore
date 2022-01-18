@@ -1,1 +1,5 @@
 node_modules
+package.json
+githubssh_key
+githubssh_key.pub
+/package-lock.json
